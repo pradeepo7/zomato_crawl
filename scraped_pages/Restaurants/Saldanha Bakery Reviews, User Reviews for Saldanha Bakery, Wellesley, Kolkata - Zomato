@@ -1,7 +1,7 @@
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" prefix="og: http://ogp.me/ns#" class=" "><head><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_GB.XuYsDC2AtZY.O/m=signin/exm=auth,client,plusone/rt=j/sv=1/d=1/ed=1/am=EQ/rs=AGLTcCOKcXKflJM4oLk9uPYtQhEwiCyXKg/cb=gapi.loaded_2" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_GB.XuYsDC2AtZY.O/m=auth/exm=client,plusone/rt=j/sv=1/d=1/ed=1/am=EQ/rs=AGLTcCOKcXKflJM4oLk9uPYtQhEwiCyXKg/cb=gapi.loaded_1" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_GB.XuYsDC2AtZY.O/m=client,plusone/rt=j/sv=1/d=1/ed=1/am=EQ/rs=AGLTcCOKcXKflJM4oLk9uPYtQhEwiCyXKg/cb=gapi.loaded_0" async=""></script><script src="https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-7613048120618893.js"></script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" prefix="og: http://ogp.me/ns#" class=" "><head><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_GB.XuYsDC2AtZY.O/m=signin/exm=auth,client,plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCO6XqhQq3v3P0O-Of1mcz9YxeJd5Q/cb=gapi.loaded_2" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_GB.XuYsDC2AtZY.O/m=auth/exm=client,plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCO6XqhQq3v3P0O-Of1mcz9YxeJd5Q/cb=gapi.loaded_1" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_GB.XuYsDC2AtZY.O/m=client,plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCO6XqhQq3v3P0O-Of1mcz9YxeJd5Q/cb=gapi.loaded_0" async=""></script><script src="https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-7613048120618893.js"></script><script type="text/javascript" src="https://bam.nr-data.net/1/700b8cfba9?a=5980739&amp;v=998.365d633&amp;to=blFbNhZQWkVWUxVaXFcbehcXRVtbGEIEQEdYQUsDCkUaRl9A&amp;rst=3778&amp;ref=https://www.zomato.com/kolkata/saldanha-bakery-wellesley/reviews&amp;ap=123&amp;be=803&amp;fe=1619&amp;dc=1178&amp;perf=%7B%22timing%22:%7B%22of%22:1482315418687,%22n%22:0,%22f%22:25,%22dn%22:25,%22dne%22:25,%22c%22:25,%22ce%22:25,%22rq%22:673,%22rp%22:779,%22rpe%22:829,%22dl%22:780,%22di%22:1980,%22ds%22:1981,%22de%22:1981,%22dc%22:2422,%22l%22:2422,%22le%22:2423%7D,%22navigation%22:%7B%7D%7D&amp;at=QhZMQF5KSRoVUUMJSERJ&amp;jsonp=NREUM.setToken"></script>
     <meta charset="utf-8" />
     <meta content="origin" name="referrer" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?onload=grender" gapi_processed="true"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js" async=""></script><script type="text/javascript" src="https://bam.nr-data.net/1/700b8cfba9?a=5980739&amp;v=998.365d633&amp;to=blFbNhZQWkVWUxVaXFcbehcXRVtbGEIEQEdYQUsDCkUaRl9A&amp;rst=8220&amp;ref=https://www.zomato.com/kolkata/saldanha-bakery-wellesley/reviews&amp;ap=133&amp;be=1026&amp;fe=5471&amp;dc=1419&amp;perf=%7B%22timing%22:%7B%22of%22:1482229418509,%22n%22:0,%22f%22:18,%22dn%22:18,%22dne%22:18,%22c%22:18,%22ce%22:18,%22rq%22:757,%22rp%22:920,%22rpe%22:1051,%22dl%22:1004,%22di%22:2445,%22ds%22:2445,%22de%22:2445,%22dc%22:6496,%22l%22:6497,%22le%22:6498%7D,%22navigation%22:%7B%7D%7D&amp;at=QhZMQF5KSRoVUUMJSERJ&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&amp;&amp;(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&amp;&amp;(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&amp;&amp;(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&amp;&amp;(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o&lt;0?0:o);++r&lt;o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&amp;&amp;e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&amp;&amp;e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c&lt;u;c++)a[c].apply(i,r);var f=s[w[n]];return f&amp;&amp;f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&amp;&amp;(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&amp;&amp;"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&amp;&amp;e.licenseKey&amp;&amp;e.applicationID&amp;&amp;t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&amp;&amp;i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&amp;&amp;v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&amp;&amp;g&amp;&amp;g[p]&amp;&amp;!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?onload=grender" gapi_processed="true"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js" async=""></script><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&amp;&amp;(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&amp;&amp;(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&amp;&amp;(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&amp;&amp;(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o&lt;0?0:o);++r&lt;o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&amp;&amp;e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&amp;&amp;e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c&lt;u;c++)a[c].apply(i,r);var f=s[w[n]];return f&amp;&amp;f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&amp;&amp;(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&amp;&amp;"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&amp;&amp;e.licenseKey&amp;&amp;e.applicationID&amp;&amp;t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&amp;&amp;i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&amp;&amp;v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&amp;&amp;g&amp;&amp;g[p]&amp;&amp;!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
 
     <link rel="preconnect" href="//b.zmtcdn.com" />
     
@@ -208,12 +208,12 @@
         zomato.documentReady = zomato.documentReady || function() {};
         zomato.UnitSystem = "METRIC";
         zomato.distanceUnit = "km";
-        zomato.csrft = "79d5d42092030894b8c18eb94a09cf82";
+        zomato.csrft = "33721da7b11796a3032cd26f5e1cc0d0";
 
         var FLOADING_IMG_SRC = 'https://b.zmtcdn.com/images/floading.gif?output-format=webp';
 
         var IS_BOT = '0';
-        var ab_version_map = {"o2_button_color":1};
+        var ab_version_map = [];
 
     </script>
 
@@ -235,7 +235,7 @@
         window.user_id = "";
         window.user_fb_id = "";
         </script>
-<script> var tdata = tdata || {}; tdata["track_photo"] = []; tdata["track_photo_user"] = []; tdata["track_photo"][0] = "r_ANjcxODE1MTc5M"; tdata["track_photo"][1] = "r_zNjEwNjk1OTMyM"; tdata["track_photo"][2] = "r_ODI3Njg0MTg0Mj";  tdata["track_photo_user"][0] = "1"; tdata["track_photo_user"][1] = "1"; tdata["track_photo_user"][2] = "1"; </script><script> var tdata = tdata || {}; tdata["track_photo"] = []; tdata["track_photo_user"] = []; tdata["track_photo"][0] = "r_ANjcxODE1MTc5M"; tdata["track_photo"][1] = "r_zNjEwNjk1OTMyM"; tdata["track_photo"][2] = "r_ODI3Njg0MTg0Mj"; tdata["track_photo"][3] = "r_YOTcwNjM3NjQ2N";  tdata["track_photo_user"][0] = "1"; tdata["track_photo_user"][1] = "1"; tdata["track_photo_user"][2] = "1"; tdata["track_photo_user"][3] = "1"; </script><script src="https://track.zomato.com/php/tracking.php?track_photo=r_ANjcxODE1MTc5M%2Cr_zNjEwNjk1OTMyM%2Cr_ODI3Njg0MTg0Mj%2Cr_YOTcwNjM3NjQ2N&amp;track_photo_user=1%2C1%2C1%2C1&amp;restaurants_shown=%7C25228%2C18162681%2C22049%2C21177&amp;regime=-1&amp;category=0&amp;fbtrack=41f837819b2a157b70d9b31a24d90d0f&amp;userid=0&amp;city_id=2&amp;res_id=18224075&amp;page=https%3A%2F%2Fwww.zomato.com%2Fkolkata%2Fsaldanha-bakery-wellesley%2Freviews&amp;type=pageview_res&amp;" async=""></script><script> window.adsData = {
+<script> var tdata = tdata || {}; tdata["track_photo"] = []; tdata["track_photo_user"] = []; tdata["track_photo"][0] = "r_ANjcxODE1MTc5M"; tdata["track_photo"][1] = "r_zNjEwNjk1OTMyM"; tdata["track_photo"][2] = "r_ODI3Njg0MTg0Mj";  tdata["track_photo_user"][0] = "1"; tdata["track_photo_user"][1] = "1"; tdata["track_photo_user"][2] = "1"; </script><script> var tdata = tdata || {}; tdata["track_photo"] = []; tdata["track_photo_user"] = []; tdata["track_photo"][0] = "r_ANjcxODE1MTc5M"; tdata["track_photo"][1] = "r_zNjEwNjk1OTMyM"; tdata["track_photo"][2] = "r_ODI3Njg0MTg0Mj"; tdata["track_photo"][3] = "r_YOTcwNjM3NjQ2N";  tdata["track_photo_user"][0] = "1"; tdata["track_photo_user"][1] = "1"; tdata["track_photo_user"][2] = "1"; tdata["track_photo_user"][3] = "1"; </script><script src="https://track.zomato.com/php/tracking.php?track_photo=r_ANjcxODE1MTc5M%2Cr_zNjEwNjk1OTMyM%2Cr_ODI3Njg0MTg0Mj%2Cr_YOTcwNjM3NjQ2N&amp;track_photo_user=1%2C1%2C1%2C1&amp;restaurants_shown=%7C25228%2C18162681%2C22049%2C21177&amp;regime=-1&amp;category=0&amp;fbtrack=f1d1b2b621b5ff3570f35e9f032e9f59&amp;userid=0&amp;city_id=2&amp;res_id=18224075&amp;page=https%3A%2F%2Fwww.zomato.com%2Fkolkata%2Fsaldanha-bakery-wellesley%2Freviews&amp;type=pageview_res&amp;" async=""></script><script> window.adsData = {
     'location_id': '1173',
     'location_type' : 'subzone',
     'display_page' : 'restaurant',
@@ -246,7 +246,7 @@
     <script type="text/javascript" src="https://b.zmtcdn.com/application/javascript/respond.min.js?output-format=webp"></script>
     <script type="text/javascript" src="https://b.zmtcdn.com/application/javascript/pie.js?output-format=webp"></script>
     <![endif]-->
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="react" src="//cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react-with-addons.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="reactDom" src="//cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react-dom.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="raven" src="//cdn.ravenjs.com/3.3.0/raven.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://static.zmtcdn.com/genjs/t-61a3ab4ab5e08c82c20c5899af9cb536/l-H4sIAAAAAAAAA32S3XqDMAiGb2izF7Md7SQPGhppMbiEtNOrX9TaYQ92Fl4CH39KY56agWJzyW-zDKDSMMRQIOCCOhkGiSeFECgG8ynhjfCeDck9pDVmEF8Y86lHHjEtxBOwBOur5qb5EOhEroT5GA5-C9_JpQytWAA-uyASeNW9fBdMUzN_SFf1FjJyqTI1cPMwzBMLeKMLEXhS6vKhFmbslCRaijeMegA_msDYZ-iwrW0Y9NfCA6xtu0whltHgsRcVm3tkmc7EbFnC_F6UXthzC3sViN5Brf5GOhmeEVLXW_Cc0gG4iHqXdH1se9-_uBadR0ZFOz69k-qhw5KPZi340P_LQFrorq6-R1Bq2Z7cfoXVG7XO2ri-PlMNs3n-WUtJ7HqInrf_TG2CVE_tVI8IU6R5xbpkdHROMKxFzBRpkfwFpRmlhCADAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70" src="https://static.zmtcdn.com/genjs/t-61a3ab4ab5e08c82c20c5899af9cb536/l-H4sIAAAAAAAAA32S3XqDMAiGb2izF7Md7SQPGhppMbiEtNOrX9TaYQ92Fl4CH39KY56agWJzyW-zDKDSMMRQIOCCOhkGiSeFECgG8ynhjfCeDck9pDVmEF8Y86lHHjEtxBOwBOur5qb5EOhEroT5GA5-C9_JpQytWAA-uyASeNW9fBdMUzN_SFf1FjJyqTI1cPMwzBMLeKMLEXhS6vKhFmbslCRaijeMegA_msDYZ-iwrW0Y9NfCA6xtu0whltHgsRcVm3tkmc7EbFnC_F6UXthzC3sViN5Brf5GOhmeEVLXW_Cc0gG4iHqXdH1se9-_uBadR0ZFOz69k-qhw5KPZi340P_LQFrorq6-R1Bq2Z7cfoXVG7XO2ri-PlMNs3n-WUtJ7HqInrf_TG2CVE_tVI8IU6R5xbpkdHROMKxFzBRpkfwFpRmlhCADAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://static.zmtcdn.com/genjs/t-29f8c17f05221c2e52709f97cdedec9e/l-H4sIAAAAAAAAA12OQRLCMAhFL-S0K8-TwYRpqSQoEB1zepNOF9Ulj89_UDGHRSGHJhlcps0u27OifqbVM1_rgwXSiVpUYY4rGOqUqYyVYi-pCsV_pxnSkYgMlAOTOZVlgCypMtqcsTWZ-4H6SbJhIocb41-f4ovwbYPW7g-xv4LRScrOIFlXWnCFeD9EjQqN6i8DXosa6QAAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70" src="https://static.zmtcdn.com/genjs/t-29f8c17f05221c2e52709f97cdedec9e/l-H4sIAAAAAAAAA12OQRLCMAhFL-S0K8-TwYRpqSQoEB1zepNOF9Ulj89_UDGHRSGHJhlcps0u27OifqbVM1_rgwXSiVpUYY4rGOqUqYyVYi-pCsV_pxnSkYgMlAOTOZVlgCypMtqcsTWZ-4H6SbJhIocb41-f4ovwbYPW7g-xv4LRScrOIFlXWnCFeD9EjQqN6i8DXosa6QAAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70" src="https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/1f4c0302413375d64367.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/1f4c0302413375d64367.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/1f4c0302413375d64367.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/f9714e281ff2f54d8d69.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/7ce3659bb3866ff64a74.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/1f4c0302413375d64367.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ac94b76e149202725a98.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ac94b76e149202725a98.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ac94b76e149202725a98.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ac94b76e149202725a98.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ed0a4e989aac140a10f5.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="react" src="//cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react-with-addons.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="reactDom" src="//cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react-dom.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="raven" src="//cdn.ravenjs.com/3.3.0/raven.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://static.zmtcdn.com/genjs/t-61a3ab4ab5e08c82c20c5899af9cb536/l-H4sIAAAAAAAAA32S3XqDMAiGb2izF7Md7SQPGhppMbiEtNOrX9TaYQ92Fl4CH39KY56agWJzyW-zDKDSMMRQIOCCOhkGiSeFECgG8ynhjfCeDck9pDVmEF8Y86lHHjEtxBOwBOur5qb5EOhEroT5GA5-C9_JpQytWAA-uyASeNW9fBdMUzN_SFf1FjJyqTI1cPMwzBMLeKMLEXhS6vKhFmbslCRaijeMegA_msDYZ-iwrW0Y9NfCA6xtu0whltHgsRcVm3tkmc7EbFnC_F6UXthzC3sViN5Brf5GOhmeEVLXW_Cc0gG4iHqXdH1se9-_uBadR0ZFOz69k-qhw5KPZi340P_LQFrorq6-R1Bq2Z7cfoXVG7XO2ri-PlMNs3n-WUtJ7HqInrf_TG2CVE_tVI8IU6R5xbpkdHROMKxFzBRpkfwFpRmlhCADAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70" src="https://static.zmtcdn.com/genjs/t-61a3ab4ab5e08c82c20c5899af9cb536/l-H4sIAAAAAAAAA32S3XqDMAiGb2izF7Md7SQPGhppMbiEtNOrX9TaYQ92Fl4CH39KY56agWJzyW-zDKDSMMRQIOCCOhkGiSeFECgG8ynhjfCeDck9pDVmEF8Y86lHHjEtxBOwBOur5qb5EOhEroT5GA5-C9_JpQytWAA-uyASeNW9fBdMUzN_SFf1FjJyqTI1cPMwzBMLeKMLEXhS6vKhFmbslCRaijeMegA_msDYZ-iwrW0Y9NfCA6xtu0whltHgsRcVm3tkmc7EbFnC_F6UXthzC3sViN5Brf5GOhmeEVLXW_Cc0gG4iHqXdH1se9-_uBadR0ZFOz69k-qhw5KPZi340P_LQFrorq6-R1Bq2Z7cfoXVG7XO2ri-PlMNs3n-WUtJ7HqInrf_TG2CVE_tVI8IU6R5xbpkdHROMKxFzBRpkfwFpRmlhCADAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://static.zmtcdn.com/genjs/t-29f8c17f05221c2e52709f97cdedec9e/l-H4sIAAAAAAAAA12OQRLCMAhFL-S0K8-TwYRpqSQoEB1zepNOF9Ulj89_UDGHRSGHJhlcps0u27OifqbVM1_rgwXSiVpUYY4rGOqUqYyVYi-pCsV_pxnSkYgMlAOTOZVlgCypMtqcsTWZ-4H6SbJhIocb41-f4ovwbYPW7g-xv4LRScrOIFlXWnCFeD9EjQqN6i8DXosa6QAAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70" src="https://static.zmtcdn.com/genjs/t-29f8c17f05221c2e52709f97cdedec9e/l-H4sIAAAAAAAAA12OQRLCMAhFL-S0K8-TwYRpqSQoEB1zepNOF9Ulj89_UDGHRSGHJhlcps0u27OifqbVM1_rgwXSiVpUYY4rGOqUqYyVYi-pCsV_pxnSkYgMlAOTOZVlgCypMtqcsTWZ-4H6SbJhIocb41-f4ovwbYPW7g-xv4LRScrOIFlXWnCFeD9EjQqN6i8DXosa6QAAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70" src="https://static.zmtcdn.com/genjs/t-968a8081031fe4c50afcb7b9b72c9e76/l-H4sIAAAAAAAAAyvIyC_JL8tMLU8tis9NzMzTyyrWKUotLkksLUrMK9EtSgXJ6eYkVlXm5CemAGUBDp5cmDEAAAA/cl-en/h-d6ec1899dc785371ca012f58f337df70"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/1f4c0302413375d64367.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/1f4c0302413375d64367.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ed0a4e989aac140a10f5.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ac94b76e149202725a98.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ac94b76e149202725a98.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/1f4c0302413375d64367.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/f9714e281ff2f54d8d69.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/7ce3659bb3866ff64a74.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/1f4c0302413375d64367.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ac94b76e149202725a98.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://static.zmtcdn.com/genjs/v2/cl-en/ac94b76e149202725a98.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
 <body class="is-responsive en">
@@ -254,7 +254,7 @@
             
     <script>dataLayer = [];</script>
 
-    <div class="ghboxcontainer" style="visibility: hidden; display: none;"><div id="ghbox" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 114px; height: 36px; position: relative;"><button style="opacity: 0; z-index: 10000; left: 0px; top: 0px; position: absolute; cursor: pointer; outline: 0px; width: 114px; height: 36px;">Sign in with Google</button><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 114px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 36px;" tabindex="0" vspace="0" width="100%" id="I0_1482229431368" name="I0_1482229431368" src="https://apis.google.com/_/widget/render/signin?usegapi=1&amp;approvalprompt=auto&amp;clientid=442739719837.apps.googleusercontent.com&amp;cookiepolicy=single_host_origin&amp;accesstype=offline&amp;apppackagename=com.application.zomato&amp;state=79d5d42092030894b8c18eb94a09cf82&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&amp;hl=en&amp;origin=https%3A%2F%2Fwww.zomato.com&amp;url=https%3A%2F%2Fwww.zomato.com%2Fkolkata%2Fsaldanha-bakery-wellesley%2Freviews&amp;gsrc=3p&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.XuYsDC2AtZY.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOKcXKflJM4oLk9uPYtQhEwiCyXKg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&amp;id=I0_1482229431368&amp;parent=https%3A%2F%2Fwww.zomato.com&amp;pfname=&amp;rpctoken=10793100" data-gapiattached="true" title="Sign in with Google"></iframe></div></div>
+    <div class="ghboxcontainer" style="visibility: hidden; display: none;"><div id="ghbox" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 114px; height: 36px; position: relative;"><button style="opacity: 0; z-index: 10000; left: 0px; top: 0px; position: absolute; cursor: pointer; outline: 0px; width: 114px; height: 36px;">Sign in with Google</button><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 114px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 36px;" tabindex="0" vspace="0" width="100%" id="I0_1482315423290" name="I0_1482315423290" src="https://apis.google.com/_/widget/render/signin?usegapi=1&amp;approvalprompt=auto&amp;clientid=442739719837.apps.googleusercontent.com&amp;cookiepolicy=single_host_origin&amp;accesstype=offline&amp;apppackagename=com.application.zomato&amp;state=33721da7b11796a3032cd26f5e1cc0d0&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&amp;hl=en&amp;origin=https%3A%2F%2Fwww.zomato.com&amp;url=https%3A%2F%2Fwww.zomato.com%2Fkolkata%2Fsaldanha-bakery-wellesley%2Freviews&amp;gsrc=3p&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.XuYsDC2AtZY.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO6XqhQq3v3P0O-Of1mcz9YxeJd5Q#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&amp;id=I0_1482315423290&amp;parent=https%3A%2F%2Fwww.zomato.com&amp;pfname=&amp;rpctoken=93580692" data-gapiattached="true" title="Sign in with Google"></iframe></div></div>
 
     
         
@@ -684,7 +684,7 @@
 
 
 
-    <div class=" restab_wrap" style="min-height: 3831px; margin-top: 90px;">
+    <div class=" restab_wrap" style="min-height: 3816px; margin-top: 90px;">
 
                     <div id="tabtop" class="tabcontent-wrapper brstd  reviews ">
                 <div class="res-my-review-container reviews noborder" style="overflow:initial;">
@@ -828,7 +828,7 @@
                         <input type="file" multiple="multiple" class="file-chooser" data-resid="18224075" />
                         <input type="hidden" id="instagram_page_size" name="instagram_page_size" value="6" />
                         <a class="file-chooser-link upload-button-link each-upload-button-type-1 hidden"></a>
-                        <a href="#" class="inst upload-side-by-side each-upload-button-type-1 border-left-only hidden" data-instagram-redirect-uri="https://www.zomato.com/instagram_success.php&amp;state=79d5d42092030894b8c18eb94a09cf82" data-instagram-auth-url="https://instagram.com/oauth/authorize/?client_id=87c9ab848c78448e92aa995f886c30d6&amp;redirect_uri=https://www.zomato.com/instagram_success.php&amp;state=79d5d42092030894b8c18eb94a09cf82&amp;response_type=code" data-instagram-id="" data-instagram-client-id="87c9ab848c78448e92aa995f886c30d6" data-instagram-token=""></a>
+                        <a href="#" class="inst upload-side-by-side each-upload-button-type-1 border-left-only hidden" data-instagram-redirect-uri="https://www.zomato.com/instagram_success.php&amp;state=33721da7b11796a3032cd26f5e1cc0d0" data-instagram-auth-url="https://instagram.com/oauth/authorize/?client_id=87c9ab848c78448e92aa995f886c30d6&amp;redirect_uri=https://www.zomato.com/instagram_success.php&amp;state=33721da7b11796a3032cd26f5e1cc0d0&amp;response_type=code" data-instagram-id="" data-instagram-client-id="87c9ab848c78448e92aa995f886c30d6" data-instagram-token=""></a>
 
                     </div>
 
@@ -1029,7 +1029,7 @@
                 </div>
                                 <div class="fs12px pbot0 clearfix">
                     <a class="grey-text" href="https://www.zomato.com/review/KrADQX">
-                        <time datetime="2016-12-18 23:51:54">yesterday</time>
+                        <time datetime="2016-12-18 23:51:54">3 days ago</time>
                     </a>
 
                                         	                    
@@ -1168,7 +1168,7 @@
                 </div>
                                 <div class="fs12px pbot0 clearfix">
                     <a class="grey-text" href="https://www.zomato.com/review/nzpkNr">
-                        <time datetime="2016-12-17 21:09:23">3 days ago</time>
+                        <time datetime="2016-12-17 21:09:23">4 days ago</time>
                     </a>
 
                                         	                    
@@ -1308,7 +1308,7 @@ Don't look around. Just look down and enjoy the lip smacking goodies.
                 </div>
                                 <div class="fs12px pbot0 clearfix">
                     <a class="grey-text" href="https://www.zomato.com/review/KraqdA">
-                        <time datetime="2016-12-14 19:10:28">6 days ago</time>
+                        <time datetime="2016-12-14 19:10:28">7 days ago</time>
                     </a>
 
                                         	                    
@@ -1517,7 +1517,7 @@ Strongly recommend the Walnut Cake, try it once....But kindly refrain from takin
         </a>
 
         <div class="metadata">
-            <div class="date">19 days ago</div>
+            <div class="date">20 days ago</div>
         </div>
 
         
@@ -1748,7 +1748,7 @@ i had a client team visiting from Poland who were extremely happy eating these i
         </a>
 
         <div class="metadata">
-            <div class="date">12 days ago</div>
+            <div class="date">13 days ago</div>
         </div>
 
         
@@ -2464,7 +2464,7 @@ i had a client team visiting from Poland who were extremely happy eating these i
                         
                                             54 Reviews
                                 ,
-                          433 Followers
+                          434 Followers
                                           
               </span>
         <div class="clear"></div>
@@ -2589,12 +2589,12 @@ One should reach Rafi Ahmed Kidwai road (the tram road) and find out the B C Sen
                                     
                                                 
                 
-		<div class="left mr5 ui tiny labeled button js-btn-thank" data-action="like" data-active="1" data-reviewid="27819050" data-likes="7" aria-label="Like">
+		<div class="left mr5 ui tiny labeled button js-btn-thank" data-action="like" data-active="1" data-reviewid="27819050" data-likes="8" aria-label="Like">
 			<div class="compact ui tiny button " data-icon="f">
 								<span>Like</span>
 							</div>
-			<div class="ui basic label  stats-thanks js-thank-count js-activity-like-count " data-action_id="27819050" data-action_type="REVIEW" aria-label="7 Likes">
-				7
+			<div class="ui basic label  stats-thanks js-thank-count js-activity-like-count " data-action_id="27819050" data-action_type="REVIEW" aria-label="8 Likes">
+				8
 			</div>
 		</div>
 
@@ -2709,7 +2709,7 @@ One should reach Rafi Ahmed Kidwai road (the tram road) and find out the B C Sen
         </a>
 
         <div class="metadata">
-            <div class="date">30 days ago</div>
+            <div class="date">one month ago</div>
         </div>
 
         
@@ -2778,7 +2778,7 @@ One should reach Rafi Ahmed Kidwai road (the tram road) and find out the B C Sen
         </a>
 
         <div class="metadata">
-            <div class="date">30 days ago</div>
+            <div class="date">one month ago</div>
         </div>
 
         
@@ -3317,9 +3317,9 @@ One should reach Rafi Ahmed Kidwai road (the tram road) and find out the B C Sen
       <span class="grey-text fontsize5 nowrap">
 
                         
-                                            176 Reviews
+                                            178 Reviews
                                 ,
-                          330 Followers
+                          333 Followers
                                           
               </span>
         <div class="clear"></div>
@@ -3846,7 +3846,7 @@ Ending it I would say I m looking forward in...
                 </div>
                                 <div class="fs12px pbot0 clearfix">
                     <a class="grey-text" href="https://www.zomato.com/review/mYyMLa">
-                        <time datetime="2016-01-26 15:28:43">10 months ago</time>
+                        <time datetime="2016-01-26 15:28:43">11 months ago</time>
                     </a>
 
                                         	                    
@@ -4121,9 +4121,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
       <span class="grey-text fontsize5 nowrap">
 
                         
-                                            147 Reviews
+                                            149 Reviews
                                 ,
-                          329 Followers
+                          330 Followers
                                           
               </span>
         <div class="clear"></div>
@@ -4801,7 +4801,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
 
 
     
-<div class="right-column-container col-l-5" style="min-height: 3831px;">
+<div class="right-column-container col-l-5" style="min-height: 3816px;">
         <div class="hide-on-mobile ">
                             <div class="clearfix">
                     <div class="res-add-container">
@@ -4835,9 +4835,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="4754" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="1" data-entity-id="24513" data-entity-type="restaurant" data-slot-id="0" data-creative-id="7523" data-category-sequence="1" data-rating="4.1">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="4754" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="1" data-entity-id="24513" data-entity-type="restaurant" data-slot-id="0" data-creative-id="7528" data-category-sequence="1" data-rating="4.1">
     <a href="https://www.zomato.com/kolkata/little-pleasures-loudon-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/f94/31e30555f22999b766963da393ac6f94.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/318/9f7a153ab3275c222518ff80b9c44318.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-7 ">
                 4.1
             </div>
@@ -4864,9 +4864,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="22212" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="2" data-entity-id="18162656" data-entity-type="restaurant" data-slot-id="0" data-creative-id="46010" data-category-sequence="1" data-rating="4.1">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="22212" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="2" data-entity-id="18162656" data-entity-type="restaurant" data-slot-id="0" data-creative-id="46014" data-category-sequence="1" data-rating="4.1">
     <a href="https://www.zomato.com/kolkata/cremecup-in-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/97b/eb9e5805ca4d9b10fb6076621167097b.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/b4f/f310d5df551ee93d158fb0246b6dab4f.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-7 ">
                 4.1
             </div>
@@ -4893,27 +4893,27 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="3" data-entity-id="18302162" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="3.7">
-    <a href="https://www.zomato.com/kolkata/gourmet-bakers-paddapukur?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/2/18302162/7172896110afe88606af410d9cfc882d_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="3" data-entity-id="21544" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="3.5">
+    <a href="https://www.zomato.com/kolkata/ovenfresh-kenilworth-hotels-theatre-road?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/4/21544/4a97d1ed54aa9e04a31d5bcdb42ce53c_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
-                3.7
+                3.5
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/gourmet-bakers-paddapukur?ref_type=subzone&amp;ref_id=1173">Gourmet Bakers</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/ovenfresh-kenilworth-hotels-theatre-road?ref_type=subzone&amp;ref_id=1173">Ovenfresh - Kenilworth Hotels</a>
         </div>
         
-        <a href="https://www.zomato.com/kolkata/paddapukur-restaurants">
-            <div class="nowrap grey-text subzone_text">PADDAPUKUR</div>
+        <a href="https://www.zomato.com/kolkata/theatre-road-restaurants">
+            <div class="nowrap grey-text subzone_text">THEATRE ROAD</div>
         </a>
 
         
                 <div class="grey-text cuisine_str">
-            Bakery
+            Bakery, Desserts
         </div>
         
             </div>
@@ -4925,36 +4925,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="4" data-entity-id="23445" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="3.1">
-    <a href="https://www.zomato.com/kolkata/flurys-alipore?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/chains/2/21212/025cf5afdb9173afba38f77a91a5fa13_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-5 ">
-                3.1
-            </div>
-                    </div>
-    </a>
-
-    <div class="pt5 pbot0 ad_info">
-        <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/flurys-alipore?ref_type=subzone&amp;ref_id=1173">Flurys</a>
-        </div>
-        
-        <a href="https://www.zomato.com/kolkata/alipore-restaurants">
-            <div class="nowrap grey-text subzone_text">ALIPORE</div>
-        </a>
-
-        
-                <div class="grey-text cuisine_str">
-            Bakery, Desserts
-        </div>
-        
-            </div>
-</div>            </div>
-
-        
-    
-                            <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="5" data-entity-id="20720" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="4.2">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="4" data-entity-id="20720" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="4.2">
     <a href="https://www.zomato.com/kolkata/piccadilly-square-elgin?ref_type=subzone&amp;ref_id=1173">
         <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/0/20720/43beb8c4c435cc0450648d98872cf246_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-7 ">
@@ -4983,27 +4954,56 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="6" data-entity-id="24898" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="3.4">
-    <a href="https://www.zomato.com/kolkata/cakes-and-more-kidderpore?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/8/24898/16f89d2316609cac175e59d8f6cad27e_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="5" data-entity-id="18070779" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="3.0">
+    <a href="https://www.zomato.com/kolkata/pavni-bakes-bhawanipur?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/chains/9/18070779/0791ab88a79ab4c063bea61207245997_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-5 ">
-                3.4
+                3.0
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/cakes-and-more-kidderpore?ref_type=subzone&amp;ref_id=1173">Cakes And More</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/pavni-bakes-bhawanipur?ref_type=subzone&amp;ref_id=1173">Pavni Bakes</a>
         </div>
         
-        <a href="https://www.zomato.com/kolkata/kidderpore-restaurants">
-            <div class="nowrap grey-text subzone_text">KIDDERPORE</div>
+        <a href="https://www.zomato.com/kolkata/bhawanipur-restaurants">
+            <div class="nowrap grey-text subzone_text">BHAWANIPUR</div>
         </a>
 
         
                 <div class="grey-text cuisine_str">
             Bakery, Desserts
+        </div>
+        
+            </div>
+</div>            </div>
+
+        
+    
+                            <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="6" data-entity-id="22751" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="3.0">
+    <a href="https://www.zomato.com/kolkata/sprinkles-theatre-road?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/1/22751/8777a9cf02bbf816200ea8fd91285d41_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-5 ">
+                3.0
+            </div>
+                    </div>
+    </a>
+
+    <div class="pt5 pbot0 ad_info">
+        <div style="">
+            <a class="res_name" href="https://www.zomato.com/kolkata/sprinkles-theatre-road?ref_type=subzone&amp;ref_id=1173">Sprinkles</a>
+        </div>
+        
+        <a href="https://www.zomato.com/kolkata/theatre-road-restaurants">
+            <div class="nowrap grey-text subzone_text">THEATRE ROAD</div>
+        </a>
+
+        
+                <div class="grey-text cuisine_str">
+            Desserts
         </div>
         
             </div>
@@ -5015,22 +5015,22 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="7" data-entity-id="25127" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="3.3">
-    <a href="https://www.zomato.com/kolkata/chocolic-alipore?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/chains/7/25127/9e981ce30fc22bc9f3e0faa6ee583637_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-5 ">
-                3.3
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="7" data-entity-id="24905" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="1" data-rating="3.6">
+    <a href="https://www.zomato.com/kolkata/tg-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/5/24905/dfd2281ac47635b54550d3ab2fd0e714_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-6 ">
+                3.6
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/chocolic-alipore?ref_type=subzone&amp;ref_id=1173">Chocolic</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/tg-park-street-area?ref_type=subzone&amp;ref_id=1173">TG by Tanvi Ghai</a>
         </div>
         
-        <a href="https://www.zomato.com/kolkata/alipore-restaurants">
-            <div class="nowrap grey-text subzone_text">ALIPORE</div>
+        <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
+            <div class="nowrap grey-text subzone_text">PARK STREET AREA</div>
         </a>
 
         
@@ -5044,9 +5044,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="20761" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="8" data-entity-id="18224075" data-entity-type="restaurant" data-slot-id="0" data-creative-id="42698" data-category-sequence="1" data-rating="3.9">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="20761" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="8" data-entity-id="18224075" data-entity-type="restaurant" data-slot-id="0" data-creative-id="45445" data-category-sequence="1" data-rating="3.9">
     <a href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/adb/f82f805044530d3727d1b4d2c4e59adb.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/dfc/699ea866fc3114603ce4ef7e2d539dfc.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
                 3.9
             </div>
@@ -5073,9 +5073,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="11100" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="9" data-entity-id="22077" data-entity-type="restaurant" data-slot-id="0" data-creative-id="14450" data-category-sequence="1" data-rating="4.7">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="11100" data-ad-category-id="20" data-ad-zone-id="2851" data-ad-position="9" data-entity-id="22077" data-entity-type="restaurant" data-slot-id="0" data-creative-id="14451" data-category-sequence="1" data-rating="4.7">
     <a href="https://www.zomato.com/kolkata/balaram-mullick-radharaman-mullick-sweets-bhawanipur?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/283/d6800694243e0ca430b3db6ed69a6283.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/409/457706ec79c630a6c08b08b7e7f43409.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-8 ">
                 4.7
             </div>
@@ -5129,9 +5129,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="28591" data-ad-category-id="35" data-ad-zone-id="9683" data-ad-position="1" data-entity-id="25513" data-entity-type="restaurant" data-slot-id="0" data-creative-id="62485" data-category-sequence="2" data-rating="3.3">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="28591" data-ad-category-id="35" data-ad-zone-id="9683" data-ad-position="1" data-entity-id="25513" data-entity-type="restaurant" data-slot-id="0" data-creative-id="62487" data-category-sequence="2" data-rating="3.3">
     <a href="https://www.zomato.com/kolkata/wow-momo-delivery-camac-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/a74/ef0154571a64ef3791786b4d4ba9ba74.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/ec4/112a160c39fefb0da0e50a10d6db5ec4.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-5 ">
                 3.3
             </div>
@@ -5336,76 +5336,18 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="1" data-entity-id="22158" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="3" data-rating="3.0">
-    <a href="https://www.zomato.com/kolkata/hong-kong-chinese-restaurant-new-market-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/8/22158/a6f850d247756f9f2acf4423402a846c_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-5 ">
-                3.0
-            </div>
-                    </div>
-    </a>
-
-    <div class="pt5 pbot0 ad_info">
-        <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/hong-kong-chinese-restaurant-new-market-area?ref_type=subzone&amp;ref_id=1173">Hong Kong Chinese Restaurant</a>
-        </div>
-        
-        <a href="https://www.zomato.com/kolkata/new-market-area-restaurants">
-            <div class="nowrap grey-text subzone_text">NEW MARKET AREA</div>
-        </a>
-
-        
-                <div class="grey-text cuisine_str">
-            Chinese, Continental
-        </div>
-        
-            </div>
-</div>            </div>
-
-        
-    
-                            <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="2" data-entity-id="20404" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="3" data-rating="4.3">
-    <a href="https://www.zomato.com/kolkata/peter-cat-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/4/20404/c46422afc522370cdce81a412a9cdbe5_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-7 ">
-                4.3
-            </div>
-                    </div>
-    </a>
-
-    <div class="pt5 pbot0 ad_info">
-        <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/peter-cat-park-street-area?ref_type=subzone&amp;ref_id=1173">Peter Cat</a>
-        </div>
-        
-        <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
-            <div class="nowrap grey-text subzone_text">PARK STREET AREA</div>
-        </a>
-
-        
-                <div class="grey-text cuisine_str">
-            Continental, North Indian
-        </div>
-        
-            </div>
-</div>            </div>
-
-        
-    
-                            <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="3" data-entity-id="18265474" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="3" data-rating="3.7">
-    <a href="https://www.zomato.com/bodegacantina?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/4/18265474/04dc4d9c4d05f9cda9dd05bcb14eb63a_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="1" data-entity-id="23805" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="3" data-rating="3.8">
+    <a href="https://www.zomato.com/kolkata/au-bon-pain-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/chains/3/23673/f7eabf038e5250e115716b38e0977c98_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
-                3.7
+                3.8
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/bodegacantina?ref_type=subzone&amp;ref_id=1173">Bodega Cantina Y Bar</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/au-bon-pain-park-street-area?ref_type=subzone&amp;ref_id=1173">Au Bon Pain</a>
         </div>
         
         <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
@@ -5414,7 +5356,65 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
 
         
                 <div class="grey-text cuisine_str">
-            Korean, Mediterranean
+            Cafe
+        </div>
+        
+            </div>
+</div>            </div>
+
+        
+    
+                            <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="2" data-entity-id="21382" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="3" data-rating="4.0">
+    <a href="https://www.zomato.com/kolkata/bistro-by-the-park-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/2/21382/528a72dfe2d2be6348dbe17a680cf60f_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-7 ">
+                4.0
+            </div>
+                    </div>
+    </a>
+
+    <div class="pt5 pbot0 ad_info">
+        <div style="">
+            <a class="res_name" href="https://www.zomato.com/kolkata/bistro-by-the-park-park-street-area?ref_type=subzone&amp;ref_id=1173">Bistro By The Park</a>
+        </div>
+        
+        <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
+            <div class="nowrap grey-text subzone_text">PARK STREET AREA</div>
+        </a>
+
+        
+                <div class="grey-text cuisine_str">
+            Continental, Italian
+        </div>
+        
+            </div>
+</div>            </div>
+
+        
+    
+                            <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="3" data-entity-id="25654" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="3" data-rating="3.9">
+    <a href="https://www.zomato.com/kolkata/hakuna-matata-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/4/25654/23d8d39c1dfea42fecabea3494e93002_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-6 ">
+                3.9
+            </div>
+                    </div>
+    </a>
+
+    <div class="pt5 pbot0 ad_info">
+        <div style="">
+            <a class="res_name" href="https://www.zomato.com/kolkata/hakuna-matata-park-street-area?ref_type=subzone&amp;ref_id=1173">Hakuna Matata</a>
+        </div>
+        
+        <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
+            <div class="nowrap grey-text subzone_text">PARK STREET AREA</div>
+        </a>
+
+        
+                <div class="grey-text cuisine_str">
+            Continental, Mexican
         </div>
         
             </div>
@@ -5426,27 +5426,27 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="4" data-entity-id="20826" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="3" data-rating="3.6">
-    <a href="https://www.zomato.com/kolkata/mezban-wellesley?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/6/20826/75e8d3778e066eeab00b3f68733e2ff5_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="4" data-entity-id="20287" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="3" data-rating="3.8">
+    <a href="https://www.zomato.com/kolkata/kfc-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/chains/7/20287/1f262fabe91b2bc8ff85f7de3fe2e0f3_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
-                3.6
+                3.8
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/mezban-wellesley?ref_type=subzone&amp;ref_id=1173">Mezban</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/kfc-park-street-area?ref_type=subzone&amp;ref_id=1173">KFC</a>
         </div>
         
-        <a href="https://www.zomato.com/kolkata/wellesley-restaurants">
-            <div class="nowrap grey-text subzone_text">WELLESLEY</div>
+        <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
+            <div class="nowrap grey-text subzone_text">PARK STREET AREA</div>
         </a>
 
         
                 <div class="grey-text cuisine_str">
-            Biryani, North Indian
+            American, Fast Food
         </div>
         
             </div>
@@ -5455,9 +5455,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="20506" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="5" data-entity-id="20795" data-entity-type="restaurant" data-slot-id="0" data-creative-id="39853" data-category-sequence="3" data-rating="3.8">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="20506" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="5" data-entity-id="20795" data-entity-type="restaurant" data-slot-id="0" data-creative-id="39858" data-category-sequence="3" data-rating="3.8">
     <a href="https://www.zomato.com/kolkata/arsalan-wellesley?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/0ec/676fd59a64af65aacb36f0600fdb50ec.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/cd1/f595f6086fdd17242443dab007d03cd1.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
                 3.8
             </div>
@@ -5484,9 +5484,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="28063" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="6" data-entity-id="20274" data-entity-type="restaurant" data-slot-id="0" data-creative-id="62262" data-category-sequence="3" data-rating="3.9">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="28063" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="6" data-entity-id="20274" data-entity-type="restaurant" data-slot-id="0" data-creative-id="62269" data-category-sequence="3" data-rating="3.9">
     <a href="https://www.zomato.com/kolkata/jalapenos-camac-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/8a6/aaf24772b4b3fadd5749d9a0247748a6.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/589/7e6dfdeedce2ea99fd8bec3e2a719589.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
                 3.9
             </div>
@@ -5503,7 +5503,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         </a>
 
                 <div class="grey-text description">
-            The Best Vegetarian Hangout One Could Ask For! ;-)
+            Our white sauce pasta is to die for! Order Now ;-)
         </div>
         
         
@@ -5574,9 +5574,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="25838" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="9" data-entity-id="21527" data-entity-type="restaurant" data-slot-id="0" data-creative-id="54497" data-category-sequence="3" data-rating="3.9">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="25838" data-ad-category-id="2" data-ad-zone-id="2783" data-ad-position="9" data-entity-id="21527" data-entity-type="restaurant" data-slot-id="0" data-creative-id="54495" data-category-sequence="3" data-rating="3.9">
     <a href="https://www.zomato.com/kolkata/shiraz-golden-restaurant-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/d20/5d46e57c65a5ddaef179fb12578d6d20.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/06c/de6a05367cbcb7a7c8fb404a67db806c.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
                 3.9
             </div>
@@ -5630,9 +5630,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="25498" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="1" data-entity-id="20193" data-entity-type="restaurant" data-slot-id="0" data-creative-id="54426" data-category-sequence="4" data-rating="3.9">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="25498" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="1" data-entity-id="20193" data-entity-type="restaurant" data-slot-id="0" data-creative-id="54425" data-category-sequence="4" data-rating="3.9">
     <a href="https://www.zomato.com/kolkata/fire-and-ice-pizzeria-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/d3a/c3dc4e16037cbb2d5eb6d69f2dfeed3a.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/af4/1f478a3547c24eae94c2413f403e1af4.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
                 3.9
             </div>
@@ -5659,9 +5659,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="27960" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="2" data-entity-id="18386806" data-entity-type="restaurant" data-slot-id="0" data-creative-id="62109" data-category-sequence="4" data-rating="3.1">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="27960" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="2" data-entity-id="18386806" data-entity-type="restaurant" data-slot-id="0" data-creative-id="62113" data-category-sequence="4" data-rating="3.1">
     <a href="https://www.zomato.com/kolkata/china-valley-golden-parkk-chowringhee?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/c62/1f22ca43081ed58a97432ea07bfc9c62.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/f28/f79cc6e03290dae7e131048321a1bf28.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-5 ">
                 3.1
             </div>
@@ -5726,9 +5726,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="4" data-entity-id="21349" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.7">
-    <a href="https://www.zomato.com/kolkata/golden-dragon-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/9/21349/64a519b8fb8b2dc8130f22c849f03f94_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="4" data-entity-id="21511" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.7">
+    <a href="https://www.zomato.com/kolkata/oasis-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/1/21511/f6d7da647e928c2ac351001f44cd724d_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
                 3.7
             </div>
@@ -5737,7 +5737,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/golden-dragon-park-street-area?ref_type=subzone&amp;ref_id=1173">Golden Dragon</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/oasis-park-street-area?ref_type=subzone&amp;ref_id=1173">Oasis</a>
         </div>
         
         <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
@@ -5746,7 +5746,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
 
         
                 <div class="grey-text cuisine_str">
-            Chinese
+            Continental, Desserts
         </div>
         
             </div>
@@ -5755,7 +5755,36 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="5" data-entity-id="20287" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.8">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="5" data-entity-id="20849" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.9">
+    <a href="https://www.zomato.com/kolkata/saffron-the-park-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/9/20849/4ecaf41d90ef7eae2d85cef639e542b4_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-6 ">
+                3.9
+            </div>
+                    </div>
+    </a>
+
+    <div class="pt5 pbot0 ad_info">
+        <div style="">
+            <a class="res_name" href="https://www.zomato.com/kolkata/saffron-the-park-park-street-area?ref_type=subzone&amp;ref_id=1173">Saffron - The Park</a>
+        </div>
+        
+        <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
+            <div class="nowrap grey-text subzone_text">PARK STREET AREA</div>
+        </a>
+
+        
+                <div class="grey-text cuisine_str">
+            North Indian, Kebabs
+        </div>
+        
+            </div>
+</div>            </div>
+
+        
+    
+                            <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="6" data-entity-id="20287" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.8">
     <a href="https://www.zomato.com/kolkata/kfc-park-street-area?ref_type=subzone&amp;ref_id=1173">
         <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/chains/7/20287/1f262fabe91b2bc8ff85f7de3fe2e0f3_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-6 ">
@@ -5781,53 +5810,24 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
             </div>
 </div>            </div>
 
-        
-    
-                            <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="6" data-entity-id="25444" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.7">
-    <a href="https://www.zomato.com/kolkata/the-accord-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/4/25444/a4950c9688ae850a66e76602d1f781e1_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-6 ">
-                3.7
-            </div>
-                    </div>
-    </a>
-
-    <div class="pt5 pbot0 ad_info">
-        <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/the-accord-park-street-area?ref_type=subzone&amp;ref_id=1173">The Accord</a>
-        </div>
-        
-        <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
-            <div class="nowrap grey-text subzone_text">PARK STREET AREA</div>
-        </a>
-
-        
-                <div class="grey-text cuisine_str">
-            North Indian, Chinese
-        </div>
-        
-            </div>
-</div>            </div>
-
          
         </div>
                 
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="7" data-entity-id="21213" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="4.2">
-    <a href="https://www.zomato.com/kolkata/marco-polo-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/3/21213/b46f14554b70014e009b69a612b919ce_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-7 ">
-                4.2
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="7" data-entity-id="20166" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.6">
+    <a href="https://www.zomato.com/kolkata/dominos-pizza-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/chains/2/20172/a5283cce10bae5030ba7195e3768c46f_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-6 ">
+                3.6
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/marco-polo-park-street-area?ref_type=subzone&amp;ref_id=1173">Marco Polo</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/dominos-pizza-park-street-area?ref_type=subzone&amp;ref_id=1173">Domino's Pizza</a>
         </div>
         
         <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
@@ -5836,7 +5836,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
 
         
                 <div class="grey-text cuisine_str">
-            Continental, North Indian
+            Pizza
         </div>
         
             </div>
@@ -5845,18 +5845,18 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="8" data-entity-id="18343750" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.8">
-    <a href="https://www.zomato.com/kolkata/spiceklub-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/0/18343750/0dd48a958ad1cbff1ae7377163491e4a_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-6 ">
-                3.8
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="8" data-entity-id="18368652" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="4.5">
+    <a href="https://www.zomato.com/kolkata/mamagoto-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/2/18368652/ec9feb37729ae70731cf6a6e48705330_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-8 ">
+                4.5
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/spiceklub-park-street-area?ref_type=subzone&amp;ref_id=1173">SpiceKlub</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/mamagoto-park-street-area?ref_type=subzone&amp;ref_id=1173">Mamagoto</a>
         </div>
         
         <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
@@ -5865,7 +5865,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
 
         
                 <div class="grey-text cuisine_str">
-            North Indian
+            Asian, Thai
         </div>
         
                 <span class="zgreen highlight_text">
@@ -5877,18 +5877,18 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="9" data-entity-id="25570" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="4.9">
-    <a href="https://www.zomato.com/kolkata/barbeque-nation-park-street-area?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/chains/2/20842/b53d903894e2fe2e49ca0e8671e40546_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-8 ">
-                4.9
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="1" data-ad-zone-id="2725" data-ad-position="9" data-entity-id="20848" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="4" data-rating="3.9">
+    <a href="https://www.zomato.com/kolkata/zen-the-park-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/8/20848/3dfc0f192310184890633b7b07024d3c_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-6 ">
+                3.9
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/barbeque-nation-park-street-area?ref_type=subzone&amp;ref_id=1173">Barbeque Nation</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/zen-the-park-park-street-area?ref_type=subzone&amp;ref_id=1173">Zen - The Park</a>
         </div>
         
         <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
@@ -5897,7 +5897,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
 
         
                 <div class="grey-text cuisine_str">
-            North Indian, Chinese
+            Chinese, Thai
         </div>
         
             </div>
@@ -5933,27 +5933,27 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
     
                 <div class="row entity-ads-snippet-track">
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="12" data-ad-zone-id="2753" data-ad-position="1" data-entity-id="20826" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="5" data-rating="3.6">
-    <a href="https://www.zomato.com/kolkata/mezban-wellesley?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/6/20826/75e8d3778e066eeab00b3f68733e2ff5_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
-                        <div class=" ads-res-snippet-rating  level-6 ">
-                3.6
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="0" data-ad-category-id="12" data-ad-zone-id="2753" data-ad-position="1" data-entity-id="20404" data-entity-type="restaurant" data-slot-id="0" data-creative-id="0" data-category-sequence="5" data-rating="4.3">
+    <a href="https://www.zomato.com/kolkata/peter-cat-park-street-area?ref_type=subzone&amp;ref_id=1173">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/pictures/4/20404/c46422afc522370cdce81a412a9cdbe5_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+                        <div class=" ads-res-snippet-rating  level-7 ">
+                4.3
             </div>
                     </div>
     </a>
 
     <div class="pt5 pbot0 ad_info">
         <div style="">
-            <a class="res_name" href="https://www.zomato.com/kolkata/mezban-wellesley?ref_type=subzone&amp;ref_id=1173">Mezban</a>
+            <a class="res_name" href="https://www.zomato.com/kolkata/peter-cat-park-street-area?ref_type=subzone&amp;ref_id=1173">Peter Cat</a>
         </div>
         
-        <a href="https://www.zomato.com/kolkata/wellesley-restaurants">
-            <div class="nowrap grey-text subzone_text">WELLESLEY</div>
+        <a href="https://www.zomato.com/kolkata/park-street-area-restaurants">
+            <div class="nowrap grey-text subzone_text">PARK STREET AREA</div>
         </a>
 
         
                 <div class="grey-text cuisine_str">
-            Biryani, North Indian
+            Continental, North Indian
         </div>
         
             </div>
@@ -5991,9 +5991,9 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
         
     
                             <div class="col-l-1by3 col-s-1by3  pr5 pl5 ">
-                <div class=" pbot0 res_ad_banner " style="" data-banner-id="4389" data-ad-category-id="12" data-ad-zone-id="2753" data-ad-position="3" data-entity-id="18224077" data-entity-type="restaurant" data-slot-id="0" data-creative-id="7321" data-category-sequence="5" data-rating="3.3">
+                <div class=" pbot0 res_ad_banner " style="" data-banner-id="4389" data-ad-category-id="12" data-ad-zone-id="2753" data-ad-position="3" data-entity-id="18224077" data-entity-type="restaurant" data-slot-id="0" data-creative-id="61863" data-category-sequence="5" data-rating="3.3">
     <a href="https://www.zomato.com/kolkata/aafreen-restaurant-wellesley?ref_type=subzone&amp;ref_id=1173">
-        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/f95/7725b4f848c9d10ab2eaa63a81592f95.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
+        <div class="relative   res_image" data-original="https://b.zmtcdn.com/data/ads_creatives/10b/40ce7592050cf0a8a9af640efb67c10b.jpg" style="background-image:url(https://b.zmtcdn.com/images/photo-backs/restaurant-back.jpg);  height: 90px ">
                         <div class=" ads-res-snippet-rating  level-5 ">
                 3.3
             </div>
@@ -6065,8 +6065,8 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
             <div class="ui list">
                 <div class="item">
                     
-                        <div class="right floated top-res-box-rating-small level-5">
-                            3.0
+                        <div class="right floated top-res-box-rating-small level-4">
+                            2.9
                         </div>
                     
                                         <a href="https://www.zomato.com/kolkata/kk-foods-wellesley" class="left mr10">
@@ -6226,7 +6226,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
             <section class="pbot0 pt5 section mtop0 clearfix">
                                     <h4 tabindex="0" aria-label="Frequent searches leading to this page" class="normal fontsize3 mbot0">Frequent searches leading to this page</h4>
                     <div class="userKeywords">
-                        <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">saldanha cake kolkata</a><span class="grey-text">,</span> <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">saldhana bakery kolkata</a><span class="grey-text">,</span> <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">saldanha bakery menu</a><span class="grey-text">,</span> <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">1</a><span class="grey-text">,</span> <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">saldanha bakery</a>                    </div>
+                        <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">1</a><span class="grey-text">,</span> <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">saldanha bakery</a><span class="grey-text">,</span> <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">saldanha bakery menu</a><span class="grey-text">,</span> <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">saldhana bakery kolkata</a><span class="grey-text">,</span> <a class="hu related-links-link grey-text" href="https://www.zomato.com/kolkata/saldanha-bakery-wellesley">saldanha cake kolkata</a>                    </div>
                             </section>
 
             
@@ -6616,7 +6616,7 @@ Tried their chicken envelop and cheese puff...the envelop was awesome...the size
 
 
 <div id="photoviewer_container"><div data-reactroot="" class="ui dimmer photoviewer_dimmer hideDisplay"><i class="icon close_viewer"></i><div class="photoModal animHidden"><div class="ui segment photosContainer normal"><div class="ui loader"></div><!-- react-text: 6 --><!-- /react-text --><div class="leftNavigation"><i class="icon navigation left"></i></div><div class="rightNavigation"><i class="icon navigation right"></i></div><div class="photoActionsContainer"><div class="photoActions"><div class="left action-icons cursor-pointer"><i class="icon heart_line"></i><!-- react-text: 15 -->Like<!-- /react-text --></div><div class="right action-icons cursor-pointer js-btn-share" data-entity-type="PHOTO"><i class="share icon"></i><!-- react-text: 18 --> <!-- /react-text --><!-- react-text: 19 -->Share<!-- /react-text --></div></div></div><div class="photosCarousel"><div class="flexContainer"></div></div></div><div class="ui segment infoContainer"><div><div class="authorSnippet"><div class="col-l-3"><div class="row"><div class="ui tiny circular image left"><img /></div></div></div><div class="col-l-13"><div><a href=""><span class="author_name fontsize2 cursor-pointer"><!-- react-text: 33 --> <!-- /react-text --><!-- react-text: 34 --> <!-- /react-text --></span></a><!-- react-text: 35 --><!-- /react-text --></div></div></div><div class="authorMetadata"><span><span class="grey-text"></span></span></div></div><div class="ui divider"></div><div class="col-l-16"><div class="row"><div class="left grey-text action-icons cursor-pointer"><i class="icon">f</i><!-- react-text: 44 -->Like<!-- /react-text --></div><div class="left grey-text action-icons cursor-pointer js-btn-share" data-entity-type="PHOTO"><i class="share icon"></i><!-- react-text: 47 --> <!-- /react-text --><!-- react-text: 48 -->Share<!-- /react-text --><!-- react-text: 49 --> <!-- /react-text --></div><div class="ui dropdown right actionsDropdown"><i class="icon down_arrow right"></i><div class="menu"><div class="item">Edit caption</div><div class="item">Delete photo</div></div></div></div><noscript></noscript><noscript></noscript></div><div class="commentsContainer"><div></div><div class="col-l-2"><div class="row"><div class="ui mini circular image avatarImage"><img /></div></div></div><div class="col-l-14"><div class="row"><div><div class="suggestions suggestions--singleLine" style="position: relative; overflow-y: visible;"><div class="suggestions__control"><div class="suggestions__highlighter suggestions__highlighter--singleLine" style="display: block; position: relative; top: 0px; box-sizing: border-box; background-color: transparent; width: inherit; color: transparent; overflow: hidden; white-space: pre;"><!-- react-text: 69 --> <!-- /react-text --></div><input type="text" class="suggestions__input" placeholder="Write a comment... Use @ to tag friends" value="" style="display: block; position: absolute; top: 0px; box-sizing: border-box; background-color: transparent; width: inherit;" /></div></div></div></div></div></div></div><noscript></noscript></div></div></div>
-<div class="clear fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/iPrOY23SGAp.js?version=42#channel=f2b0a7429c5d61c&amp;origin=https%3A%2F%2Fwww.zomato.com" style="border: none;"></iframe></div></div></div>
+<div class="clear fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/iPrOY23SGAp.js?version=42#channel=f3a8e9016a35bf4&amp;origin=https%3A%2F%2Fwww.zomato.com" style="border: none;"></iframe></div></div></div>
 
 <script type="text/javascript">
 if (typeof console != "undefined") {
@@ -6733,7 +6733,7 @@ if (typeof console != "undefined") {
             function trackUserAction(data, type){}
         </script><script type="text/javascript">
             var tdata = tdata || {};tdata["regime"] = "-1";tdata["category"] = "0";tdata["adref"] = "";
-            tdata["fbtrack"] = "41f837819b2a157b70d9b31a24d90d0f";
+            tdata["fbtrack"] = "f1d1b2b621b5ff3570f35e9f032e9f59";
             tdata["userid"] = "0";
             tdata["city_id"] = "2";
             tdata["res_id"] = "18224075";
@@ -6781,6 +6781,6 @@ if (typeof console != "undefined") {
 
             </script><script> 
                 trackUserAction(tdata, userActionType);
-            </script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"700b8cfba9","applicationID":"5980739","transactionName":"blFbNhZQWkVWUxVaXFcbehcXRVtbGEIEQEdYQUsDCkUaRl9A","queueTime":0,"applicationTime":133,"atts":"QhZMQF5KSRoVUUMJSERJ","errorBeacon":"bam.nr-data.net","agent":""}</script>
+            </script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"700b8cfba9","applicationID":"5980739","transactionName":"blFbNhZQWkVWUxVaXFcbehcXRVtbGEIEQEdYQUsDCkUaRl9A","queueTime":0,"applicationTime":123,"atts":"QhZMQF5KSRoVUUMJSERJ","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-</div><script src="https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js"></script><div class="tag-search-helper ui divided items hidden"></div><div class="ReactModalPortal"><div data-reactroot=""></div></div><div class="ReactModalPortal"><div data-reactroot=""></div></div><div class="ReactModalPortal"><div data-reactroot=""></div></div><iframe name="oauth2relay891066650" id="oauth2relay891066650" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fwww.zomato.com&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.XuYsDC2AtZY.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOKcXKflJM4oLk9uPYtQhEwiCyXKg#rpctoken=666921343&amp;forcesecure=1" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><iframe src="https://accounts.google.com/o/oauth2/auth?client_id=442739719837.apps.googleusercontent.com&amp;response_type=code%20token%20id_token%20gsession&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&amp;state=780337779%7C0.2937345511&amp;access_type=offline&amp;after_redirect=keep_open&amp;cookie_policy=single_host_origin&amp;prompt=none&amp;hl=en&amp;include_granted_scopes=true&amp;proxy=oauth2relay891066650&amp;redirect_uri=postmessage&amp;origin=https%3A%2F%2Fwww.zomato.com&amp;gsiwebsdk=1&amp;authuser=0&amp;e=3100077&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.XuYsDC2AtZY.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOKcXKflJM4oLk9uPYtQhEwiCyXKg" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe></body></html>
+</div><script src="https://static.zmtcdn.com/application/javascript/vendor/require_2.2.0.min.js"></script><div class="tag-search-helper ui divided items hidden"></div><div class="ReactModalPortal"><div data-reactroot=""></div></div><div class="ReactModalPortal"><div data-reactroot=""></div></div><div class="ReactModalPortal"><div data-reactroot=""></div></div><iframe name="oauth2relay593124573" id="oauth2relay593124573" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fwww.zomato.com&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.XuYsDC2AtZY.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO6XqhQq3v3P0O-Of1mcz9YxeJd5Q#rpctoken=352916490&amp;forcesecure=1" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><iframe src="https://accounts.google.com/o/oauth2/auth?client_id=442739719837.apps.googleusercontent.com&amp;response_type=code%20token%20id_token%20gsession&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&amp;state=880459625%7C0.1800388214&amp;access_type=offline&amp;after_redirect=keep_open&amp;cookie_policy=single_host_origin&amp;prompt=none&amp;hl=en&amp;include_granted_scopes=true&amp;proxy=oauth2relay593124573&amp;redirect_uri=postmessage&amp;origin=https%3A%2F%2Fwww.zomato.com&amp;gsiwebsdk=1&amp;authuser=0&amp;e=3100077&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.XuYsDC2AtZY.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCO6XqhQq3v3P0O-Of1mcz9YxeJd5Q" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe></body></html>

@@ -14,8 +14,8 @@ from datetime import datetime
 
 # pickle the user and restaurant objects in files
 
-user_dict = {}  # stores the user objects with entity-id as the key
-rest_dict = {}  # stores the restaurant objects with entity-id as the key
+# user_dict = {}  # stores the user objects with entity-id as the key
+# rest_dict = {}  # stores the restaurant objects with entity-id as the key
 
 
 class Restaurant:
@@ -30,10 +30,10 @@ class Restaurant:
         # self.reviews = self.get_reviews()
 
     def __repr__(self):
-        return '{} | {} | {}'.format(self.name, self.entity_id, self.link)
+        return '{} | {} | {} |'.format(self.name, self.entity_id, self.link)
 
     def __str__(self):
-        return '{} | {} | {} | {} | {}'.format(self.name, self.entity_id, self.geo_loc, self.link, self.cuisines)
+        return '{} | {} | {} | {} | {} | \n'.format(self.name, self.entity_id, self.geo_loc, self.link, self.cuisines)
 
     def get_reviews(self):
         """
@@ -45,8 +45,12 @@ class Restaurant:
 
         # click on the button 'All reviews'
         sleep(5)
-        el = driver.find_element_by_css_selector('#selectors > a.item.default-section-title.everyone.empty')
-        webdriver.ActionChains(driver).move_to_element(el).click(el).perform()
+
+        try:
+            el = driver.find_element_by_css_selector('#selectors > a.item.default-section-title.everyone.empty')
+            webdriver.ActionChains(driver).move_to_element(el).click(el).perform()
+        except NoSuchElementException:
+            pass
         # driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
         sleep(5)
@@ -62,11 +66,11 @@ class Restaurant:
                 break
 
         print('All reviews are loaded'.format(self.review_count))
-
+        
         source = get_source(driver)
         # print(source)
-
-        write_to_file(source, driver.title, 1) # 1 for Resto
+        filename = driver.current_url.split('/')[-2]
+        write_to_file(source, filename, 1) # 1 for Resto
 
         soup = source_to_soup(source)
         # print('-------------------------')
@@ -74,17 +78,34 @@ class Restaurant:
         # print('--------------------------')
         # review_blocks = soup.find_all('div', class_=re.compile('ui segments res-review-body'))
         # review_blocks = soup.find_all('div', {'data-snippet': 'restaurant-review'})
-        review_blocks = soup.find_all('div', class_='ui segment clearfix  brtop ')
-        print('Loaded {} reviews'.format(len(review_blocks)))
-        if len(review_blocks) == 0:
+        review = (soup.find('div', class_='ui segment clearfix  br0 '))
+        
+        review_blocks = (soup.find_all('div', class_='ui segment clearfix  brtop '))
+        if len(review_blocks) == 0 or self.review_count == 0:
             print('Error in parsing reviews...\n')
             return 
+        print('Loaded {} reviews'.format(len(review_blocks)+1))
+        
 
         with open('restaurant_reviews.txt', 'a', encoding='utf-8') as f:
             
             f.write('\n\n-------------\t{}\t------------------\n\n'.format(datetime.now()))
             f.write('{}\n\n'.format(self))
             reviews = []
+            name_and_link = review.find('div', class_='header nowrap ui left')
+            u_link = name_and_link.contents[1].attrs['href']
+            u_entity_id = int(name_and_link.contents[1].attrs['data-entity_id'])
+            rating_and_rev_text = review.find('div', text='Rated')
+            r = Review()
+            r.user = User(u_link, u_entity_id)
+            r.restaurant = self
+            r.time = review.find('time').attrs['datetime']
+            r.rating = float(rating_and_rev_text.attrs['aria-label'].split()[-1])
+            r.review_text = rating_and_rev_text.parent.contents[2].strip()
+            reviews.append(r)
+            print('({}) {} {}'.format('0', r.time , u_link))
+            f.write('{}\n'.format(r))
+            f.write('\n----------------------------------\n')
             for i, review in enumerate(review_blocks):
                 name_and_link = review.find('div', class_='header nowrap ui left')
                 u_link = name_and_link.contents[1].attrs['href']
@@ -98,7 +119,7 @@ class Restaurant:
                 r.rating = float(rating_and_rev_text.attrs['aria-label'].split()[-1])
                 r.review_text = rating_and_rev_text.parent.contents[2].strip()
                 reviews.append(r)
-                print('({}) {}'.format(i + 1, r.time))
+                print('({}) {} {}'.format(i + 1, r.time , u_link))
                 f.write('{}\n'.format(r))
             f.write('\n----------------------------------\n')
 
@@ -118,8 +139,15 @@ class Restaurant:
 
         self.name = soup.find('a', class_='ui large header left').text.strip()
         self.entity_id = int(soup.find(id='resinfo-wtt').attrs['data-entity-id'])
-        review_count = soup.find('a', {'href': '{}/reviews'.format(self.link), 'class': 'item respageMenu-item '}).text
-        self.review_count = int(review_count.strip().split()[-1].replace('(', '').replace(')', ''))
+       # review_count = soup.find('a', {'href': '{}/reviews'.format(self.link), 'class': 'item respageMenu-item '}).text
+        # reviews_count = list(soup.find('div', class_='review-sorting text-tabs selectors ui secondary pointing menu mt0').children)
+        try:
+            rev_count_block = soup.find_all('a', {'data-sort': 'reviews-dd'})[0]        
+            self.review_count = int(rev_count_block.contents[1].text)
+        except IndexError:
+            rev_count = 0
+
+        print('reviews #{}'.format(self.review_count))
 
         cuisine_block = soup.find('div', class_='res-info-cuisines clearfix')
         list_of_cuisines = []
@@ -142,16 +170,17 @@ class Restaurant:
 class Review:
     def __init__(self):
         self.user = None
+        self.user_link = None
         self.restaurant = None
         self.time = None
         self.rating = None
         self.review_text = None
 
     def __repr__(self):
-        return '{} | Rating: {} | {}'.format(self.restaurant.name, self.rating, self.time)
+        return '{} | Rating: {} | {} | '.format(self.restaurant.name, self.rating, self.time)
 
     def __str__(self):
-        return '{} | {} | {} | {} | {} | {} |\n '.format(self.restaurant.name, self.user.name, self.user.entity_id, self.rating, self.time, self.review_text)
+        return '{} | {} | {} | {} | {} | {} | {} |\n '.format(self.restaurant.name, self.user.name, self.user_link, self.user.entity_id, self.rating, self.time, self.review_text)
 
 
 class User:
@@ -168,7 +197,7 @@ class User:
 
     def __str__(self):
         return '(U) {} | {} | {} | ' \
-               '{} | reviews: {} | followers: {} | been there: {} |'.format(self.name,
+               '{} | reviews: {} | followers: {} | been there: {} | '.format(self.name,
                                                                           self.entity_id,
                                                                           self.location,
                                                                           self.link,
@@ -177,7 +206,7 @@ class User:
                                                                           self.been_there_count)
 
     def __repr__(self):
-        return '{} | {} | {} |'.format(self.name, self.entity_id, self.link)
+        return '{} | {} | {} | '.format(self.name, self.entity_id, self.link)
 
     def followers(self):
         """
@@ -197,7 +226,8 @@ class User:
         sleep(20)
 
         source = get_source(driver)
-        write_to_file(source, driver.title, 2)
+        filename = driver.current_url.split('/')[-2]
+        write_to_file(source, filename, 2)
         soup = source_to_soup(source)
 
         # now to find all the followers!!
@@ -246,7 +276,8 @@ class User:
             # sleep(10)
 
             source = get_source(driver)
-            write_to_file(source, driver.title, 3)
+            filename = driver.current_url.split('/')[-2]
+            write_to_file(source, filename, 3)
             soup = source_to_soup(source)
 
             # finding all reviews
@@ -350,7 +381,7 @@ def init_chromedriver():
     chrome_options = webdriver.ChromeOptions()
     prefs = {"profile.managed_default_content_settings.images": 2}
     chrome_options.add_experimental_option("prefs", prefs)
-    return webdriver.Chrome(chrome_options=chrome_options)
+    return webdriver.Chrome('./chromedriver', chrome_options=chrome_options)
 
 
 def element_present(driver, css_sel):
@@ -383,7 +414,8 @@ def write_to_file(source, filename, type):
     Type = 1 for Restaurant review, 2 for user follower, 
     3 for user review
     """
-    path = '/home/administrator/zomato_crawler/results/scraped_pages'
+    path = '/home/administrator/PBC/zomato_crawl/scraped_pages'
+    #path = '/home/administrator/zomato_crawler/results/scraped_pages'
     if type == 1:
         path += '/Restaurants/' + filename
     elif type == 2:
@@ -432,28 +464,38 @@ def g():
              r'https://www.zomato.com/sanjaynpunjabi',
              r'https://www.zomato.com/users/abhirup-chakravarty-13825351',
              r'https://www.zomato.com/users/bhupender-bora-36305051']
-
-    restaurants = [r'https://www.zomato.com/kolkata/arsalan-park-circus-area',
+#r'https://www.zomato.com/kolkata/arsalan-park-circus-area',
+    restaurants = [
                    r'https://www.zomato.com/kolkata/desi-lane-alipore',
                    r'https://www.zomato.com/kolkata/an-idea-park-circus-area',
                    r'https://www.zomato.com/kolkata/monkey-bar-camac-street-area',
-                   r'https://www.zomato.com/kolkata/saldanha-bakery-wellesley']
+                   r'https://www.zomato.com/kolkata/saldanha-bakery-wellesley',
+                   r'https://www.zomato.com/kolkata/kafe-6-2b-bhawanipur',
+                   r'https://www.zomato.com/kolkata/the-firefly-24x7-cafe-rajarhat-new-town']
 
-    u = User(links[1], 1115831)
-    print(set(u.followers()))
+    ##not working with last link, always scraping one less
+    #u = User(links[1], 1115831)
+    #print(set(u.followers()))
     # Restaurant(restaurants[0])
     # Restaurant(restaurants[1])
-    r = Restaurant(restaurants[1])
-    r.get_reviews()
+    user_link = []
+    #for i in restaurants:
+    r = Restaurant(restaurants[-1])
+    rev = r.get_reviews()
 
-    # r = Restaurant(restaurants[-2])
-    # r.get_reviews()
-    # print(r)
+    #storing user links for resto
+    # for i,review in enumerate(rev):
+    #     print("hii",type(review)
+        #user_link.append(review)
+
+    #iterating the user list for follower network
+    #for i,user in enumerate(user_link):
 
 
 def main():
+    #auto()
     g()
-
+    # print(resto)
 
 if __name__ == '__main__':
     main()
