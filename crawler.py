@@ -483,7 +483,8 @@ def g():
                    r'https://www.zomato.com/kolkata/kafe-6-2b-bhawanipur',
                    r'https://www.zomato.com/kolkata/the-firefly-24x7-cafe-rajarhat-new-town',
                    r'https://www.zomato.com/kolkata/eagle-boys-pizza-ruby-hospital-area',
-                   r'https://www.zomato.com/kolkata/arsalan-park-circus-area']
+                   r'https://www.zomato.com/kolkata/arsalan-park-circus-area',
+                   r'https://www.zomato.com/kolkata/bjs-sports-restrau-cum-lounge-hazra']
 
     ##not working with last link, always scraping one less
     #u = User(links[1], 1115831)
