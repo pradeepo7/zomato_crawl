@@ -8,8 +8,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 import networkx as nx
 from datetime import datetime
 
-# G = nx.DiGraph()
-# G.name = 'Zomato follower network'
+G_follow = nx.DiGraph()
+G_follow.name = 'Zomato follower network'
 # TIME = 5
 
 # pickle the user and restaurant objects in files
@@ -91,11 +91,13 @@ class Restaurant:
             
             f.write('\n\n-------------\t{}\t------------------\n\n'.format(datetime.now()))
             f.write('{}\n\n'.format(self))
+            
             reviews = []
             name_and_link = review.find('div', class_='header nowrap ui left')
             u_link = name_and_link.contents[1].attrs['href']
             u_entity_id = int(name_and_link.contents[1].attrs['data-entity_id'])
             rating_and_rev_text = review.find('div', text='Rated')
+            
             r = Review()
             r.user = User(u_link, u_entity_id)
             r.restaurant = self
@@ -103,9 +105,11 @@ class Restaurant:
             r.rating = float(rating_and_rev_text.attrs['aria-label'].split()[-1])
             r.review_text = rating_and_rev_text.parent.contents[2].strip()
             reviews.append(r)
+            
             print('({}) {} {}'.format('0', r.time , u_link))
             f.write('{}\n'.format(r))
             f.write('\n----------------------------------\n')
+           
             for i, review in enumerate(review_blocks):
                 name_and_link = review.find('div', class_='header nowrap ui left')
                 u_link = name_and_link.contents[1].attrs['href']
@@ -114,13 +118,16 @@ class Restaurant:
 
                 r = Review()
                 r.user = User(u_link, u_entity_id)
+                r.user_link = u_link
                 r.restaurant = self
                 r.time = review.find('time').attrs['datetime']
                 r.rating = float(rating_and_rev_text.attrs['aria-label'].split()[-1])
                 r.review_text = rating_and_rev_text.parent.contents[2].strip()
                 reviews.append(r)
+                
                 print('({}) {} {}'.format(i + 1, r.time , u_link))
-                f.write('{}\n'.format(r))
+                f.write('({}) {}\n'.format(i + 1, r))
+
             f.write('\n----------------------------------\n')
 
         return reviews
@@ -196,7 +203,7 @@ class User:
         self.init_user()
 
     def __str__(self):
-        return '(U) {} | {} | {} | ' \
+        return '{} | {} | {} | ' \
                '{} | reviews: {} | followers: {} | been there: {} | '.format(self.name,
                                                                           self.entity_id,
                                                                           self.location,
@@ -219,7 +226,10 @@ class User:
 
         sleep(10)
         while len(driver.find_elements_by_class_name('load-more')) > 1:  # one for Followers, other for Following
+            print('Clicking load more!')
             element = driver.find_element_by_class_name('load-more')
+            driver.execute_script("return arguments[0].scrollIntoView();", el2)
+            driver.execute_script("window.scrollBy(0, -150);")
             ac = ActionChains(driver).move_to_element(element)
             ac.click().perform()
             sleep(5)
@@ -236,16 +246,16 @@ class User:
         
         with open('followers', 'a', encoding='utf-8') as f:
             f.write('\n\n-------------\t{}\t------------------\n\n'.format(datetime.now()))
-            f.write('{}\n'.format(self))
+            f.write('{}\nFollowers\n'.format(self))
             for i, element in enumerate(elements[: self.followers_count]):
                 dic = element.contents[1].attrs
                 follower = User(link=dic['href'], entity_id=int(dic['data-entity_id']))
                 if follower is None:
                     continue
 
-                f.write('{}\n'.format(follower))
+                f.write('({}) {}\n'.format(i + 1, follower))
                 # print('({}) Adding edge between {} and {}'.format(i + 1, self.name, follower.name))
-                yield follower
+                # yield follower
                 # followers.append(follower)
                 # G.add_edge(self, follower)
 
@@ -414,7 +424,7 @@ def write_to_file(source, filename, type):
     Type = 1 for Restaurant review, 2 for user follower, 
     3 for user review
     """
-    path = '/home/administrator/PBC/zomato_crawl/scraped_pages'
+    path = './scraped_pages'
     #path = '/home/administrator/zomato_crawler/results/scraped_pages'
     if type == 1:
         path += '/Restaurants/' + filename
@@ -464,14 +474,16 @@ def g():
              r'https://www.zomato.com/sanjaynpunjabi',
              r'https://www.zomato.com/users/abhirup-chakravarty-13825351',
              r'https://www.zomato.com/users/bhupender-bora-36305051']
-#r'https://www.zomato.com/kolkata/arsalan-park-circus-area',
+    #r'https://www.zomato.com/kolkata/arsalan-park-circus-area',
     restaurants = [
                    r'https://www.zomato.com/kolkata/desi-lane-alipore',
                    r'https://www.zomato.com/kolkata/an-idea-park-circus-area',
                    r'https://www.zomato.com/kolkata/monkey-bar-camac-street-area',
                    r'https://www.zomato.com/kolkata/saldanha-bakery-wellesley',
                    r'https://www.zomato.com/kolkata/kafe-6-2b-bhawanipur',
-                   r'https://www.zomato.com/kolkata/the-firefly-24x7-cafe-rajarhat-new-town']
+                   r'https://www.zomato.com/kolkata/the-firefly-24x7-cafe-rajarhat-new-town',
+                   r'https://www.zomato.com/kolkata/eagle-boys-pizza-ruby-hospital-area',
+                   r'https://www.zomato.com/kolkata/arsalan-park-circus-area']
 
     ##not working with last link, always scraping one less
     #u = User(links[1], 1115831)
@@ -491,11 +503,14 @@ def g():
     #iterating the user list for follower network
     #for i,user in enumerate(user_link):
 
+def h():
+    user_links = [r'https://www.zomato.com/users/saumajeet-deb-689078']
+    u = User(user_links[0], 689078) 
+    u.followers()   
 
 def main():
-    #auto()
+    # h()
     g()
-    # print(resto)
 
 if __name__ == '__main__':
     main()
